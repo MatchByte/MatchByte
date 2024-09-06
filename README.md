@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew
+- 👋 Hi, I’m Andrew!
 - you can reach me @ dynamicdebug@gmail.com
 - I'm currently learning a11y best practices & TypeScript!
 <!---
